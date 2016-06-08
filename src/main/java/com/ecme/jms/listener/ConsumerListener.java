@@ -22,7 +22,7 @@ public class ConsumerListener implements MessageListener {
 	@Autowired
 	ConsumerAdapter consumerAdapter;
 	
-	
+	public ConsumerListener(){}
 	
 	public void onMessage(Message msg) {
 		log.info("In onMessage()");

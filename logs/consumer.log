@@ -37,3 +37,27 @@
 2016-06-07 16:07:47 | INFO  | main       | pter.ConsumerAdapter:22    | Sending to MongoDB
 2016-06-07 16:07:47 | INFO  | main       | pter.ConsumerAdapter:26    | converting JSON to DBObject
 2016-06-07 16:07:47 | INFO  | main       | pter.ConsumerAdapter:29    | inserted into MongoDB
+2016-06-07 18:52:57 | INFO  | main       | pter.ConsumerAdapter:22    | Sending to MongoDB
+2016-06-07 18:52:57 | INFO  | main       | pter.ConsumerAdapter:26    | converting JSON to DBObject
+2016-06-07 18:52:57 | INFO  | main       | pter.ConsumerAdapter:29    | inserted into MongoDB
+2016-06-07 18:52:58 | INFO  | main       | ner.ConsumerListener:28    | In onMessage()
+2016-06-07 18:52:58 | INFO  | main       | ner.ConsumerListener:33    | Sending json to DB {vendorName:"Microsofttest3",firstName:"BobTest3",lastName:"SmithTest3",address:"123 Main test3",city:"TulsaTest",state:"OKTest",zip:"71345Test",email:"Bob@microsoft.test",phoneNumber:"test-123-test"}
+2016-06-07 18:52:58 | INFO  | main       | pter.ConsumerAdapter:22    | Sending to MongoDB
+2016-06-07 18:52:58 | INFO  | main       | pter.ConsumerAdapter:26    | converting JSON to DBObject
+2016-06-07 18:52:58 | INFO  | main       | pter.ConsumerAdapter:29    | inserted into MongoDB
+2016-06-07 18:59:57 | INFO  | main       | pter.ConsumerAdapter:22    | Sending to MongoDB
+2016-06-07 18:59:57 | INFO  | main       | pter.ConsumerAdapter:26    | converting JSON to DBObject
+2016-06-07 18:59:58 | INFO  | main       | pter.ConsumerAdapter:29    | inserted into MongoDB
+2016-06-07 18:59:59 | INFO  | main       | ner.ConsumerListener:28    | In onMessage()
+2016-06-07 18:59:59 | INFO  | main       | ner.ConsumerListener:33    | Sending json to DB {vendorName:"Microsofttest3",firstName:"BobTest3",lastName:"SmithTest3",address:"123 Main test3",city:"TulsaTest",state:"OKTest",zip:"71345Test",email:"Bob@microsoft.test",phoneNumber:"test-123-test"}
+2016-06-07 18:59:59 | INFO  | main       | pter.ConsumerAdapter:22    | Sending to MongoDB
+2016-06-07 18:59:59 | INFO  | main       | pter.ConsumerAdapter:26    | converting JSON to DBObject
+2016-06-07 18:59:59 | INFO  | main       | pter.ConsumerAdapter:29    | inserted into MongoDB
+2016-06-07 19:21:22 | INFO  | main       | pter.ConsumerAdapter:22    | Sending to MongoDB
+2016-06-07 19:21:22 | INFO  | main       | pter.ConsumerAdapter:26    | converting JSON to DBObject
+2016-06-07 19:21:22 | INFO  | main       | pter.ConsumerAdapter:29    | inserted into MongoDB
+2016-06-07 19:21:23 | INFO  | main       | ner.ConsumerListener:28    | In onMessage()
+2016-06-07 19:21:23 | INFO  | main       | ner.ConsumerListener:33    | Sending json to DB {vendorName:"Microsofttest3",firstName:"BobTest3",lastName:"SmithTest3",address:"123 Main test3",city:"TulsaTest",state:"OKTest",zip:"71345Test",email:"Bob@microsoft.test",phoneNumber:"test-123-test"}
+2016-06-07 19:21:23 | INFO  | main       | pter.ConsumerAdapter:22    | Sending to MongoDB
+2016-06-07 19:21:23 | INFO  | main       | pter.ConsumerAdapter:26    | converting JSON to DBObject
+2016-06-07 19:21:23 | INFO  | main       | pter.ConsumerAdapter:29    | inserted into MongoDB
